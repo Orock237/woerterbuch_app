@@ -3,7 +3,69 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/casa2/OneDrive/Dokumente/GitHub/woerterbuch_app/Woerterbuch_App/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/drawable/ic_forum.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/drawable/ic_illustration_sans_titre.xml" value="0.1" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_datenschutzerklaerung.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_favoriten.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_forum.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_hilfe.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_home.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_konjugation.xml" value="0.2891566265060241" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_login.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_neu_passwort.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_neuanmelden.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_passvergessen.xml" value="0.4" />
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_personalpronomen.xml" value="0.264" />
+<<<<<<< HEAD
+        <entry key="..\:/Users/LETPJG/AndroidStudioProjects/MA/team5/nguemba_woerterbuch1/app/src/main/res/layout/fragment_welcome.xml" value="0.1265625" />
+=======
+>>>>>>> 3bd0de9d986a079d632f947a1ff021653d729610
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable-v24/kommentar.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_bewertung.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_book.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_change_language.xml" value="0.10052083333333334" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_forum.xml" value="0.11296296296296296" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_hilfe_anrufen.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_home.xml" value="0.11296296296296296" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_information.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_kommentar.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_kommentar__1_.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_option.xml" value="0.11296296296296296" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_search.xml" value="0.11296296296296296" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_search_black.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_share.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_spenden.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_stern.xml" value="0.11296296296296296" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_stern_black.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/ic_user.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/drawable/kommentar.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/activity_main.xml" value="0.30625" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/app_bar_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/app_unterbar_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/content_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_copyright.xml" value="0.22" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_datenschutzerklaerung.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_favoriten.xml" value="0.1" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_forum.xml" value="0.22" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_foruma.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_hilfe.xml" value="0.1" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_impressum.xml" value="0.22" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_kommentare.xml" value="0.1" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_konjugation.xml" value="0.1" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_neu_passwort.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_nutzungsbedingung.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_passvergessen.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_personalpronomen.xml" value="0.1" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_result.xml" value="0.1" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_unterbar.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/fragment_verben.xml" value="0.1" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/layout/header.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/menu/drawer_menu.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/menu/ober_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/casa2/OneDrive/Dokumente/II_fifth_semester/MobileAnwendungen/woerterbuchApp/nguemba_woerterbuch1/app/src/main/res/menu/unterbar_menu.xml" value="0.5" />
       </map>
     </option>
   </component>
